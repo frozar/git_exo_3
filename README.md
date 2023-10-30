@@ -38,3 +38,5 @@ Auteurs :
  - Fabien Rozar
  - Florian Ethève
  - Eliott Roche
+ - Ethan GUILLOUX
+ - Florian Ethève
